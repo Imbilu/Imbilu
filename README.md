@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me  
 
-I'm a **Data Science & Machine Learning enthusiast** with a background in **software engineering**.  
+Hi, I'm Syd, a data scientist and engineer.  
 My work focuses on:  
 - **Data Analysis & Visualization** 📊  
 - **Machine Learning & Artificial Intelligence** 🤖  
@@ -15,11 +15,12 @@ Currently, I’m building projects at the intersection of **technology and socia
 
 ## 💡 Interests  
 
-- 🧠 Deep Learning & Natural Language Processing  
+- 🧠 Deep Learning & Natural Language Processing
+- 🤖 Robotics  
 - 👁️ Computer Vision & Image Processing  
 - 📈 Predictive Modeling & Data-Driven Decision Making  
 - 🌍 Tech for Social Good  
-- 🎮 Game Development (as a creative outlet)  
+- 🎮 Game Development  
 
 ## 🛠️ Skills  
 
